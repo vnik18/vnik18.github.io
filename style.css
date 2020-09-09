@@ -373,7 +373,7 @@ button:focus,
 
     .left-col-block {
 
-        width    : 100%;
+        width    : 30%;
 
         position : relative;
 
@@ -385,7 +385,7 @@ button:focus,
 
     .right-col-block {
 
-        width      : 100%;
+        width      : 70%;
 
         position   : relative;
 

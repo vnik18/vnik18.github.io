@@ -355,7 +355,7 @@ button:focus,
 
 
 
-@media (max-width : 1800px) {
+@media (min-width : 1800px) {
 
 
 
@@ -397,7 +397,7 @@ button:focus,
 
 
 
-@media (min-width : 0px) and (max-width : 1800px) {
+@media (min-width : 1800px) and (max-width : 1800px) {
 
     .columns-block {
 
@@ -457,7 +457,7 @@ button:focus,
 
 
 
-@media (max-width : 480px) {
+@media (min-width : 480px) {
 
     .section-wrapper {
 
@@ -573,7 +573,7 @@ button:focus,
 
 
 
-@media (max-width : 1800px) {
+@media (min-width : 1800px) {
 
     .header {
 
@@ -1035,7 +1035,7 @@ button:focus,
 
 
 
-@media (max-width : 1800px) {
+@media (min-width : 1800px) {
 
     .footer {
 

@@ -305,7 +305,7 @@ button:focus,
 
     flex-direction         : row;
 
-    margin                 : 30px auto;
+    margin                 : 40px auto;
 
     padding                : 0;
 
@@ -373,7 +373,7 @@ button:focus,
 
     .left-col-block {
 
-        width    : 100%;
+        width    : 120%;
 
         position : relative;
 

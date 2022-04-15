@@ -1,8 +1,8 @@
 # About Me
 
-Currently, I'm working as a lecturer and research associate at Utrecht University's [Methodology and Statistics department](https://www.uu.nl/en/organisation/methodology-and-statistics). 
+I received my Ph.D in Computer Science and Engineering from The Ohio State University (OSU) in August 2020, under the supervision of <a href = "http://web.cse.ohio-state.edu/~parthasarathy.2/" > Professor Srinivasan Parthasarathy </a>. I received my MS degree from OSU in 2019, and my Bachelors' Degree in Computer Science and Engineering from the National Institute of Technology (NIT), Nagpur (India) in 2015. I am currently an Applied Scientist with the Alexa Shopping Science team at Amazon.
 
-For 50% of my appointment I get to teach and supervise students, mostly in topics related to [Applied Data Science](https://www.uu.nl/en/research/applied-data-science). The other 50% of my appointment is research time. I'm involved in the [Missing Data](https://www.uu.nl/en/organisation/methodology-and-statistics/missing-data) group led by [Stef van Buuren](https://stefvanbuuren.name/) and [Gerko Vink](https://www.gerkovink.com/), and I assist projects guided by [Thomas Debray](https://thomasdebray.be/) at the [Julius Center for Health Sciences and Primary Care](https://juliuscentrum.umcutrecht.nl/en/). 
+My research interests lie in <font color="red"> Data Mining, Natural Language Processing</font> and <font color="red"> Social Computing</font>. In particular, I am interested in: <br> (i) <b> Knowledge representation and reasoning</b>, which involves extracting, interpreting and transforming digital content into structured knowledge representations; (ii) Performing <b>downstream NLP tasks </b> such as intent discovery, natural language generation, summarization etc; and (iii) <b>Understanding Human Behavioral</b> characteristics from heterogeneous data sources for interdisciplinary applications such as public health, shopping and marketing.
 
 <br>
 

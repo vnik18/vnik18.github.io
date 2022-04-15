@@ -82,6 +82,16 @@ My research interests lie in <font color="red"> Data Mining, Natural Language Pr
 <br> 
 
 
+## Experience 
+
+- Summer intern at Amazon Alexa NLU, Boston, MA. 2019.
+- Summer intern at Adobe Research, San Jose, CA, 2018.
+- Summer intern at Nokia Bell Labs, Dublin, Ireland. 2017.
+
+
+<br> 
+
+
 ## Achievements
 
 - <b>Best Paper Honorable Mention</b> at The Web Search and Data Mining (WSDM) Conference from a shortlist of 5 papers & 112 accepted papers, 2021. 
@@ -96,14 +106,6 @@ My research interests lie in <font color="red"> Data Mining, Natural Language Pr
 - Academic Excellence Award, Institute Silver Medal (First Rank in CSE Dept.) and Outstanding Academic Performance Prize, National Institute of Technology, Nagpur (India)
 
 
-<br>
- 
- ## Experience
- 
-- Summer intern at Amazon Alexa AI, Boston, MA (2019)
-- Summer intern at Adobe Research, San Jose, CA (2018)
-- Summer intern at Nokia Bell Laboratories, Dublin, Ireland (2017)
-            
 
 <br>
 

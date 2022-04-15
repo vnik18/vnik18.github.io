@@ -1,1 +1,8 @@
 theme: jekyll-theme-minimal
+title: Nikhita Vedula  <br>
+description: <br> A computer scientist interested in data mining, natural language processing, and information retrieval.
+    <br><br> Contact:<a href="mailto:vedula.5@osu.edu"> vedula.5@osu.edu</a>. 
+    <br> <br> Publications:<a href="https://scholar.google.com/citations?user=TgJ5r14AAAAJ&hl=en"> Google Scholar.</a> 
+    <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://www.linkedin.com/in/nikhita-vedula-7228036a/" href="https://www.linkedin.com/in/nikhita-vedula-7228036a/" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">LinkedIn</a></div>
+logo: /img/nv.jpeg
+auto_ids: true

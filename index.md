@@ -98,8 +98,8 @@ My research interests lie in <font color="red"> Data Mining, Natural Language Pr
 - CSE Graduate Student Poster (<i>Honorable Mention</i>) at the Ohio State University, 2020.
 - Awarded the <i> B. Chandrasekaran & Sandra Mamrak Graduate Research Award </i> </a> in CSE at the Ohio State University, 2020.
 - CSE Graduate Student Poster (<i>Honorable Mention</i>) at the Ohio State University, 2020.
-- Awarded the <a href = https://gradsch.osu.edu/pursuing-your-degree/graduate-fellows/presidential-fellowship/> <i> Presidential Fellowship </i> </a> at the Ohio State University, 2019.
-- Selected as a <a href = https://publish.illinois.edu/rising-stars/participants/> <i> Rising Star in EECS, </i> </a>2019. 
+- Awarded the prestigious [Presidential Fellowship](https://gradsch.osu.edu/pursuing-your-degree/graduate-fellows/presidential-fellowship) </i> </a> at the Ohio State University, 2019.
+- Selected as a [Rising Star in EECS](https://publish.illinois.edu/rising-stars/participants), </i> </a>2019. 
 - Travel Awards for SIGIR 2018, ICWSM 2018, ACM CRA-W workshop 2017. 
 - <i>University Graduate Fellowship</i> at the Ohio State University, 2015. 
 - Academic Excellence Award, Institute Silver Medal (First Rank in CSE Dept.) and Outstanding Academic Performance Prize, National Institute of Technology, Nagpur (India)

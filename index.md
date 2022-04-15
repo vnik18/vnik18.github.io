@@ -12,23 +12,25 @@ My research interests lie in <font color="red"> Data Mining, Natural Language Pr
               <li>01/2022: Our work "ADVIN: Automatically Discovering Novel Domains and Intents from User Utterances" was accepted at <i> ICASSP 2022 </i> in Singapore for oral presentation. </li>
               <li>11/2021: Our work "What Matters for Shoppers: Investigating Key Attributes for Product Comparison" was accepted at <i> ECIR 2022 </i> in Norway. </li>
              <li>08/2021: Our work "Open Intent Discovery from Natural Language Interactions" was invited for a presentation at the Sister Conferences Best Papers Track of <i> IJCAI 2021 </i> in Montreal (virtual) </li> 
-             <li>03/2021: I was a panelist at an <i> [Amazon Science panel](https://amazonwsdm2021.splashthat.com) </i> at <i> WSDM 2021 </i> in Israel (virtual)</li>
+             <li>03/2021: I was a panelist at an [Amazon Science panel](https://amazonwsdm2021.splashthat.com) at <i> WSDM 2021 </i> in Israel (virtual)</li>
              <li>03/2021: Our work "FACE-KEG: Fact Checking Explained using Knowledge Graphs" received a <b>Best Paper Honorable Mention</b> at <i> WSDM 2021 </i> in Israel (virtual)! </li>
              <li>09/2020: I have joined the Amazon Alexa Shopping Science team as an Applied Scientist. </li>
-             <li>09/2020: I have been invited to present my PhD work at the <i> [Microsoft AI Breakthroughs Workshop (virtual)](https://www.microsoft.com/en-us/research/event/ai-breakthroughs-2020) </i> </a>. </li>
+             <li>09/2020: I have been invited to present my PhD work at the [Microsoft AI Breakthroughs Workshop (virtual)](https://www.microsoft.com/en-us/research/event/ai-breakthroughs-2020) </li>
         <li>08/2020: I completed my <b> PhD in Computer Science </b> at the Ohio State University! </li>
              <li>05/2020: Our work "Open Intent Discovery from Natural Language Interactions" received the <b>Best Paper Award</b> at <i> The Web Conference (WWW 2020) </i> in Taipei, Taiwan! </li>
-             <li>10/2019: Excited to attend the <a href = https://publish.illinois.edu/rising-stars/participants> <i> Rising Stars in EECS </i> </a> Academic Career Workshop at UIUC! </li>
+             <li>10/2019: Excited to attend the [Rising Stars in EECS](https://publish.illinois.edu/rising-stars/participants) Academic Career Workshop at UIUC! </li>
              <li>05/2019: Prsented our work "BOLT-K: Bootstrapping Ontology Learning via Transfer of Knowledge" at <i> The Web Conference (WWW 2019) </i> in San Francisco, CA. </li>
              <li>07/2018: Attended <i> SIGIR 2018 </i> in Ann Arbor, MI and presented our works "ETF: Enriching Taxonomies with Functional Domain Knowledge", and "Modeling Transportation Uncertainty in Matching Help Seekers and Suppliers during Disasters."</li>
              <li>07/2018: Attended <i> ICWSM 2018 </i> in Stanford, CA</li>
              <li>11/2017: Attended <i>ICDM 2017 </i> in New Orleans, LA and presented our work "Multimodal Content Analysis for Effective Advertisements on YouTube."
              <li>07/2017: Attended <i> ACM Digital Health (DH) 2017 </i> in London, UK and presented our work "Emotional and Linguistic Cues of Depression from Social Media."
-             <li>04/2017: Will be at the <a href = https://cra.org/cra-wp/events/grad-cohort-workshop-2017> <i> ACM CRA Graduate Cohort Workshop for Women </i> </a> in Washington, D.C.!</li>
+             <li>04/2017: Will be at the [ACM CRA Graduate Cohort Workshop for Women](https://cra.org/cra-wp/events/grad-cohort-workshop-2017) in Washington, D.C.!</li>
              <li> 08/2016: Attended <i>SIGKDD 2016</i> and presented our work "Predicting Trust Relations Among Users in a Social Network: The Role of Influence, Cohesion and Valence." <i>(WISDOM@SIGKDD)</i>
          </ul> 
 
+
 <br>
+
 
 ## Publications and Patents
 

@@ -83,9 +83,9 @@ My research interests lie in <font color="red"> Data Mining, Natural Language Pr
  
  ## Experience
  
- - 05/2019 -- 08/2019: Summer intern at <i>Amazon Alexa AI</i>, Boston, MA
- - 05/2018 -- 08/2018: Summer intern at <i>Adobe Research</i>, San Jose, CA
- - 05/2017 -- 08/2017: Summer intern at <i>Nokia Bell Laboratories</i>, Dublin, Ireland
+ - 05/2019 - 08/2019: Summer intern at <i>Amazon Alexa AI</i>, Boston, MA
+ - 05/2018 - 08/2018: Summer intern at <i>Adobe Research</i>, San Jose, CA
+ - 05/2017 - 08/2017: Summer intern at <i>Nokia Bell Laboratories</i>, Dublin, Ireland
          
 
 <br> 
@@ -96,10 +96,10 @@ My research interests lie in <font color="red"> Data Mining, Natural Language Pr
 - <b>Best Paper Honorable Mention</b> at The Web Search and Data Mining (WSDM) Conference from a shortlist of 5 papers & 112 accepted papers, 2021. 
 - <b>Best Paper Award</b> at The Web Conference from a shortlist of 4 papers & 317 accepted papers, 2020. 
 - CSE Graduate Student Poster (<i>Honorable Mention</i>) at the Ohio State University, 2020.
-- Awarded the <i> B. Chandrasekaran & Sandra Mamrak Graduate Research Award </i> </a> in CSE at the Ohio State University, 2020.
+- Awarded the B. Chandrasekaran & Sandra Mamrak Graduate Research Award in CSE at the Ohio State University, 2020.
 - CSE Graduate Student Poster (<i>Honorable Mention</i>) at the Ohio State University, 2020.
-- Awarded the prestigious [Presidential Fellowship](https://gradsch.osu.edu/pursuing-your-degree/graduate-fellows/presidential-fellowship) </i> </a> at the Ohio State University, 2019.
-- Selected as a [Rising Star in EECS](https://publish.illinois.edu/rising-stars/participants), </i> </a>2019. 
+- Awarded the prestigious [Presidential Fellowship](https://gradsch.osu.edu/pursuing-your-degree/graduate-fellows/presidential-fellowship) at the Ohio State University, 2019.
+- Selected as a [Rising Star in EECS](https://publish.illinois.edu/rising-stars/participants), 2019. 
 - Travel Awards for SIGIR 2018, ICWSM 2018, ACM CRA-W workshop 2017. 
 - <i>University Graduate Fellowship</i> at the Ohio State University, 2015. 
 - Academic Excellence Award, Institute Silver Medal (First Rank in CSE Dept.) and Outstanding Academic Performance Prize, National Institute of Technology, Nagpur (India)

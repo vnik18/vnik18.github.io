@@ -34,8 +34,8 @@ My research interests lie in <font color="red"> Data Mining, Natural Language Pr
 
 
 <ul>
-                <li><b>Nikhita Vedula</b>, Rahul Gupta, Aman Alok, Mukund Sridhar and Shankar Ananthakrishnan. "Automated Discovery of Novel Domains and Intents from Text Utterances." <i>In Proceedings of the International Conference on Acoustics, Speech, & Signal Processing (ICASSP) </i>, 2022 (oral presentation, to appear). </li>
-              <li><b>Nikhita Vedula</b>, Marcus Collins, Eugene Agichtein and Oleg Rokhlenko. "What Matters for Shoppers: Investigating Key Attributes for Product Comparison." <i>In Proceedings of the European Conference on Information Retrieval (ECIR)</i>, 2022 (oral presentation, to appear). </li>
+                <li><b>Nikhita Vedula</b>, Rahul Gupta, Aman Alok, Mukund Sridhar and Shankar Ananthakrishnan. "Automated Discovery of Novel Domains and Intents from Text Utterances." <i>In Proceedings of the International Conference on Acoustics, Speech, & Signal Processing (ICASSP) </i>, 2022 (to appear). </li>
+              <li><b>Nikhita Vedula</b>, Marcus Collins, Eugene Agichtein and Oleg Rokhlenko. "What Matters for Shoppers: Investigating Key Attributes for Product Comparison." <i>In Proceedings of the European Conference on Information Retrieval (ECIR)</i>, 2022. </li>
               <li><b>Nikhita Vedula</b> and Srinivasan Parthasarathy. "FACE-KEG: Fact Checking Explained via Knowledge Graphs." <i>In Proceedings of the International Conference on Web Search and Data Mining (WSDM)</i>, 2021 (<b>Best Paper Honorable Mention</b>). </li>
              <li><b>Nikhita Vedula</b>, Nedim Lipka, Pranav Maneriker and Srinivasan Parthasarathy. "Open Intent Discovery from Natural Language Interactions." <i>In Proceedings of the Web Conference (WWW)</i>, 2020 (<b>Best Paper Award</b> from a shortlist of 4 papers & 317 accepted papers). </li>
                 <li>Pranav Maneriker, Dylan Wood, Pranav Kamra, Yuntian He, <b>Nikhita Vedula</b>, Meghana Bhat, Ethan Kubatko, Desheng Liu, Srinivasan Parthasarathy, "A Comprehensive Web-based Framework for Informing and Improving Hurricane Disaster Response Management." <i>In HurriCon: Science at the Intersection of Hurricanes and the Populated Coast</i>, 2020. </li>
@@ -52,4 +52,15 @@ My research interests lie in <font color="red"> Data Mining, Natural Language Pr
           <li>Nedim Lipka and <b>Nikhita Vedula</b>. "Utilizing  Recurrent Neural Networks to Recognize and Extract Open Intent from Text Inputs." <i>Patent filed with Adobe Systems Inc. </i> 2019.   </li>
                        
 
+         </ul> 
+         
+         
+ <br>
+ 
+ ## Experience
+ 
+ <ul>
+             <li>05/2019 -- 08/2019: Summer intern at <i>Amazon Alexa AI</i>, Boston, MA</li>
+             <li>05/2018 -- 08/2018: Summer intern at <i>Adobe Research</i>, San Jose, CA</li>
+             <li>05/2017 -- 08/2017: Summer intern at <i>Nokia Bell Laboratories</i>, Dublin, Ireland</li>
          </ul> 

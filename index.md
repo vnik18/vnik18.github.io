@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# Hanne I. Oberman, MSc
 
-You can use the [editor on GitHub](https://github.com/vnik18/vnik18.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Currently, I'm working as a lecturer and research associate at Utrecht University's [Methodology and Statistics department](https://www.uu.nl/en/organisation/methodology-and-statistics). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+For 50% of my appointment I get to teach and supervise students, mostly in topics related to [Applied Data Science](https://www.uu.nl/en/research/applied-data-science). The other 50% of my appointment is research time. I'm involved in the [Missing Data](https://www.uu.nl/en/organisation/methodology-and-statistics/missing-data) group led by [Stef van Buuren](https://stefvanbuuren.name/) and [Gerko Vink](https://www.gerkovink.com/), and I assist projects guided by [Thomas Debray](https://thomasdebray.be/) at the [Julius Center for Health Sciences and Primary Care](https://juliuscentrum.umcutrecht.nl/en/). 
 
-### Markdown
+<br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Experience
 
-```markdown
-Syntax highlighted code block
+If you'd like to know more about my background and education, check out my [LinkedIn profile](https://www.linkedin.com/in/hanneoberman/) or [CV](https://hanneoberman.github.io/CV/HanneObermanCV.pdf).
 
-# Header 1
-## Header 2
-### Header 3
+If you'd like to see my programming skills live in action, browse around through my [GitHub repositories](https://github.com/hanneoberman).
 
-- Bulleted
-- List
+<br>
 
-1. Numbered
-2. List
+## Research
 
-**Bold** and _Italic_ and `Code` text
+For an overview of my published work, see my [ORCiD page](https://orcid.org/0000-0003-3276-2141). Other places to find my research output are my [Utrecht University page](https://www.uu.nl/staff/HIOberman), [OSF](https://osf.io/d8c5f/), and [Google Scholar](https://scholar.google.nl/citations?user=myLQXrEAAAAJ). I post all of my ongoing work on [GitHub](https://github.com/hanneoberman). 
 
-[Link](url) and ![Image](src)
-```
+Some examples of my research:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Work in progress on [{shinymice}](https://hanneoberman.shinyapps.io/shinymice-demo/), an online evaluation suite for missing data. 
 
-### Jekyll Themes
+![](./img/hex.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vnik18/vnik18.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- My MSc thesis [Missing the Point: Non-Convergence in Iterative Imputation Algorithms](https://openreview.net/pdf?id=fHSVg6mVqpw), presented at ICML 2020 (ARTEMISS workshop).
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![](./img/conv.png)

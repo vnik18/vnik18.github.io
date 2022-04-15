@@ -10,7 +10,7 @@ My research interests lie in <font color="red"> Data Mining, Natural Language Pr
 
 <ul>
               <li>01/2022: Our work "ADVIN: Automatically Discovering Novel Domains and Intents from User Utterances" was accepted at <i> ICASSP 2022 </i> in Singapore for oral presentation. </li>
-              <li>11/2021: Our work "What Matters for Shoppers: Investigating Key Attributes for Product Comparison" was accepted at <i> ECIR 2022 </i> in Norway for oral presentation. </li>
+              <li>11/2021: Our work "What Matters for Shoppers: Investigating Key Attributes for Product Comparison" was accepted at <i> ECIR 2022 </i> in Norway. </li>
              <li>08/2021: Our work "Open Intent Discovery from Natural Language Interactions" was invited for a presentation at the Sister Conferences Best Papers Track of <i> IJCAI 2021 </i> in Montreal (virtual) </li> 
              <li>03/2021: I was a panelist at an <a href = https://amazonwsdm2021.splashthat.com/> <i> Amazon Science panel </i> </a> at <i> WSDM 2021 </i> in Israel (virtual)</li>
              <li>03/2021: Our work "FACE-KEG: Fact Checking Explained using Knowledge Graphs" received a <b>Best Paper Honorable Mention</b> at <i> WSDM 2021 </i> in Israel (virtual)! </li>
@@ -30,16 +30,26 @@ My research interests lie in <font color="red"> Data Mining, Natural Language Pr
 
 <br>
 
-## Research
+## Publications and Patents
 
-For an overview of my published work, see my [ORCiD page](https://orcid.org/0000-0003-3276-2141). Other places to find my research output are my [Utrecht University page](https://www.uu.nl/staff/HIOberman), [OSF](https://osf.io/d8c5f/), and [Google Scholar](https://scholar.google.nl/citations?user=myLQXrEAAAAJ). I post all of my ongoing work on [GitHub](https://github.com/hanneoberman). 
 
-Some examples of my research:
+<ul>
+                <li><b>Nikhita Vedula</b>, Rahul Gupta, Aman Alok, Mukund Sridhar and Shankar Ananthakrishnan. "Automated Discovery of Novel Domains and Intents from Text Utterances." <i>In Proceedings of the International Conference on Acoustics, Speech, & Signal Processing (ICASSP) </i>, 2022 (oral presentation, to appear). </li>
+              <li><b>Nikhita Vedula</b>, Marcus Collins, Eugene Agichtein and Oleg Rokhlenko. "What Matters for Shoppers: Investigating Key Attributes for Product Comparison." <i>In Proceedings of the European Conference on Information Retrieval (ECIR)</i>, 2022 (oral presentation, to appear). </li>
+              <li><b>Nikhita Vedula</b> and Srinivasan Parthasarathy. "FACE-KEG: Fact Checking Explained via Knowledge Graphs." <i>In Proceedings of the International Conference on Web Search and Data Mining (WSDM)</i>, 2021 (<b>Best Paper Honorable Mention</b>). </li>
+             <li><b>Nikhita Vedula</b>, Nedim Lipka, Pranav Maneriker and Srinivasan Parthasarathy. "Open Intent Discovery from Natural Language Interactions." <i>In Proceedings of the Web Conference (WWW)</i>, 2020 (<b>Best Paper Award</b> from a shortlist of 4 papers & 317 accepted papers). </li>
+                <li>Pranav Maneriker, Dylan Wood, Pranav Kamra, Yuntian He, <b>Nikhita Vedula</b>, Meghana Bhat, Ethan Kubatko, Desheng Liu, Srinivasan Parthasarathy, "A Comprehensive Web-based Framework for Informing and Improving Hurricane Disaster Response Management." <i>In HurriCon: Science at the Intersection of Hurricanes and the Populated Coast</i>, 2020. </li>
+             <li>Pranav Maneriker, <b>Nikhita Vedula</b>, Hussein Al-Olimat, Jiayong Liang, Omar El-Khoury, Ethan Kubatko, Desheng Liu, Krishnaprasad Thirunarayan, Valerie Shalin, Amit Sheth and Srinivasan Parthasarathy. "A Pipeline for Disaster Response and Relief Coordination."  <i>In Proceedings of the ACM SIG Conference on Information Retrieval (SIGIR)</i>, 2019. </li> 
+             <li><b>Nikhita Vedula</b>, Pranav Maneriker and Srinivasan Parthasarathy. "BOLT-K: Bootstrapping Ontology Learning via Transfer of Knowledge." <i>In Proceedings of the Web Conference (WWW)</i>, 2019. </li> 
+             <li>Hemant Purohit, <b>Nikhita Vedula</b>, Krishnaprasad Thirunarayan and Srinivasan Parthasarathy. "Modeling Transportation Uncertainty in Matching Help Seekers and Suppliers during Disasters." <i>InTI Workshop at SIGIR</i>, 2018. </li> 
+  <li><b>Nikhita Vedula</b>, Patrick K. Nicholson, Deepak Ajwani, Sourav Dutta, Alessandra Sala and Srinivasan Parthasarathy. "Enriching Taxonomies with Functional Domain Knowledge." <i>In Proceedings of the ACM SIG Conference on Information Retrieval (SIGIR)</i>, 2018. </li> 
+  <li><b>Nikhita Vedula</b>, Wei Sun, Hyunhwan Lee, Harsh Gupta, Mitsunori Ogihara, Joseph Johnson, Gang Ren and Srinivasan Parthasarathy. "Multimodal Content Analysis for Effective Advertisements on YouTube." <i>In Proceedings of the IEEE International Conference on Data Mining (ICDM)</i>, 2017. </li>
+  <li><b>Nikhita Vedula</b> and Srinivasan Parthasarathy. "Emotional and Linguistic Cues of Depression from Social Media." <i> In Proceedings of the ACM Digital Health Conference (DH)</i>, 2017. </li>  
+  <li><b>Nikhita Vedula</b>, Srinivasan Parthasarathy and Valerie Shalin. "Predicting Trust Relations in Social Networks: A Case Study on Emergency Response." <i>In Proceedings of the ACM Web Science Conference (WebSci)</i>, Troy, NY, June 2017.</li>
+  <li><b>Nikhita Vedula</b>, Srinivasan Parthasarathy and Valerie Shalin. "Predicting Trust Relations Among Users in a Social Network: The Role of Influence, Cohesion and Valence." <i>WISDOM workshop at SIGKDD</i>, 2016.</li>
+        
+          <br>
+          <li>Nedim Lipka and <b>Nikhita Vedula</b>. "Utilizing  Recurrent Neural Networks to Recognize and Extract Open Intent from Text Inputs." <i>Patent filed with Adobe Systems Inc. </i> 2019.   </li>
+                       
 
-- Work in progress on [{shinymice}](https://hanneoberman.shinyapps.io/shinymice-demo/), an online evaluation suite for missing data. 
-
-![](./img/hex.png)
-
-- My MSc thesis [Missing the Point: Non-Convergence in Iterative Imputation Algorithms](https://openreview.net/pdf?id=fHSVg6mVqpw), presented at ICML 2020 (ARTEMISS workshop).
-
-![](./img/conv.png)
+         </ul> 

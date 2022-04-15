@@ -77,16 +77,7 @@ My research interests lie in <font color="red"> Data Mining, Natural Language Pr
 
 - <b>Nikhita Vedula</b>, Srinivasan Parthasarathy and Valerie Shalin. "Predicting Trust Relations Among Users in a Social Network: The Role of Influence, Cohesion and Valence." <i>WISDOM workshop at SIGKDD</i>, 2016.
  
-         
-         
- <br>
- 
- ## Experience
- 
-- Summer intern at <i>Amazon Alexa AI</i>, Boston, MA (2019)
-- Summer intern at <i>Adobe Research</i>, San Jose, CA (2018)
-- Summer intern at <i>Nokia Bell Laboratories</i>, Dublin, Ireland (2017)
-         
+   
 
 <br> 
 
@@ -103,6 +94,15 @@ My research interests lie in <font color="red"> Data Mining, Natural Language Pr
 - Travel Awards for SIGIR 2018, ICWSM 2018, ACM CRA-W workshop 2017. 
 - <i>University Graduate Fellowship</i> at the Ohio State University, 2015. 
 - Academic Excellence Award, Institute Silver Medal (First Rank in CSE Dept.) and Outstanding Academic Performance Prize, National Institute of Technology, Nagpur (India)
+
+
+<br>
+ 
+ ## Experience
+ 
+- Summer intern at <i>Amazon Alexa AI</i>, Boston, MA (2019)
+- Summer intern at <i>Adobe Research</i>, San Jose, CA (2018)
+- Summer intern at <i>Nokia Bell Laboratories</i>, Dublin, Ireland (2017)
             
 
 <br>

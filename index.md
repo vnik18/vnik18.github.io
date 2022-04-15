@@ -39,6 +39,7 @@ My research interests lie in <font color="red"> Data Mining, Natural Language Pr
               <li><b>Nikhita Vedula</b> and Srinivasan Parthasarathy. "FACE-KEG: Fact Checking Explained via Knowledge Graphs." <i>In Proceedings of the International Conference on Web Search and Data Mining (WSDM)</i>, 2021 (<b>Best Paper Honorable Mention</b>). </li>
              <li><b>Nikhita Vedula</b>, Nedim Lipka, Pranav Maneriker and Srinivasan Parthasarathy. "Open Intent Discovery from Natural Language Interactions." <i>In Proceedings of the Web Conference (WWW)</i>, 2020 (<b>Best Paper Award</b> from a shortlist of 4 papers & 317 accepted papers). </li>
                 <li>Pranav Maneriker, Dylan Wood, Pranav Kamra, Yuntian He, <b>Nikhita Vedula</b>, Meghana Bhat, Ethan Kubatko, Desheng Liu, Srinivasan Parthasarathy, "A Comprehensive Web-based Framework for Informing and Improving Hurricane Disaster Response Management." <i>In HurriCon: Science at the Intersection of Hurricanes and the Populated Coast</i>, 2020. </li>
+  <li>Nedim Lipka and <b>Nikhita Vedula</b>. "Utilizing  Recurrent Neural Networks to Recognize and Extract Open Intent from Text Inputs." <i>Patent filed with Adobe Systems Inc. </i> 2019.   </li>
              <li>Pranav Maneriker, <b>Nikhita Vedula</b>, Hussein Al-Olimat, Jiayong Liang, Omar El-Khoury, Ethan Kubatko, Desheng Liu, Krishnaprasad Thirunarayan, Valerie Shalin, Amit Sheth and Srinivasan Parthasarathy. "A Pipeline for Disaster Response and Relief Coordination."  <i>In Proceedings of the ACM SIG Conference on Information Retrieval (SIGIR)</i>, 2019. </li> 
              <li><b>Nikhita Vedula</b>, Pranav Maneriker and Srinivasan Parthasarathy. "BOLT-K: Bootstrapping Ontology Learning via Transfer of Knowledge." <i>In Proceedings of the Web Conference (WWW)</i>, 2019. </li> 
              <li>Hemant Purohit, <b>Nikhita Vedula</b>, Krishnaprasad Thirunarayan and Srinivasan Parthasarathy. "Modeling Transportation Uncertainty in Matching Help Seekers and Suppliers during Disasters." <i>InTI Workshop at SIGIR</i>, 2018. </li> 
@@ -47,7 +48,6 @@ My research interests lie in <font color="red"> Data Mining, Natural Language Pr
   <li><b>Nikhita Vedula</b> and Srinivasan Parthasarathy. "Emotional and Linguistic Cues of Depression from Social Media." <i> In Proceedings of the ACM Digital Health Conference (DH)</i>, 2017. </li>  
   <li><b>Nikhita Vedula</b>, Srinivasan Parthasarathy and Valerie Shalin. "Predicting Trust Relations in Social Networks: A Case Study on Emergency Response." <i>In Proceedings of the ACM Web Science Conference (WebSci)</i>, Troy, NY, June 2017.</li>
   <li><b>Nikhita Vedula</b>, Srinivasan Parthasarathy and Valerie Shalin. "Predicting Trust Relations Among Users in a Social Network: The Role of Influence, Cohesion and Valence." <i>WISDOM workshop at SIGKDD</i>, 2016.</li>
-  <li>Nedim Lipka and <b>Nikhita Vedula</b>. "Utilizing  Recurrent Neural Networks to Recognize and Extract Open Intent from Text Inputs." <i>Patent filed with Adobe Systems Inc. </i> 2019.   </li>
  </ul> 
          
          
@@ -76,4 +76,14 @@ My research interests lie in <font color="red"> Data Mining, Natural Language Pr
             <li> Travel Awards for SIGIR 2018, ICWSM 2018, ACM CRA-W workshop 2017. </li>
             <li> <i>University Graduate Fellowship</i> at the Ohio State University, 2015. </li>
             <li> Academic Excellence Award, Institute Silver Medal (First Rank in CSE Dept.) and Outstanding Academic Performance Prize, National Institute of Technology, Nagpur (India)
+            </ul>
+
+<br>
+
+## Service 
+
+<ul>
+            <li> Program Committee Member at KDD 2022, CIKM 2022, WSDM 2022, SIGIR 2022, CIKM 2021, SIGIR 2021, AffCon@AAAI 2018-2021, epiDAMIK@SIGKDD 2018, KiML@SIGKDD 2020-2021, W-NUT@EMNLP 2020, CySoC@ICWSM 2021-22. </li>
+                <li> Reviewer at ACL 2021, CSCW 2021, DAMI Journal </li>
+            <li> External/Secondary Reviewer at AAAI 2020, WSDM 2019, ICML 2019, AAAI 2019, KDD 2018, WSDM 2018, KDD 2017. </li>
             </ul>

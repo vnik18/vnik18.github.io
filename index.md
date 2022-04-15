@@ -47,12 +47,8 @@ My research interests lie in <font color="red"> Data Mining, Natural Language Pr
   <li><b>Nikhita Vedula</b> and Srinivasan Parthasarathy. "Emotional and Linguistic Cues of Depression from Social Media." <i> In Proceedings of the ACM Digital Health Conference (DH)</i>, 2017. </li>  
   <li><b>Nikhita Vedula</b>, Srinivasan Parthasarathy and Valerie Shalin. "Predicting Trust Relations in Social Networks: A Case Study on Emergency Response." <i>In Proceedings of the ACM Web Science Conference (WebSci)</i>, Troy, NY, June 2017.</li>
   <li><b>Nikhita Vedula</b>, Srinivasan Parthasarathy and Valerie Shalin. "Predicting Trust Relations Among Users in a Social Network: The Role of Influence, Cohesion and Valence." <i>WISDOM workshop at SIGKDD</i>, 2016.</li>
-        
-          <br>
-          <li>Nedim Lipka and <b>Nikhita Vedula</b>. "Utilizing  Recurrent Neural Networks to Recognize and Extract Open Intent from Text Inputs." <i>Patent filed with Adobe Systems Inc. </i> 2019.   </li>
-                       
-
-         </ul> 
+  <li>Nedim Lipka and <b>Nikhita Vedula</b>. "Utilizing  Recurrent Neural Networks to Recognize and Extract Open Intent from Text Inputs." <i>Patent filed with Adobe Systems Inc. </i> 2019.   </li>
+ </ul> 
          
          
  <br>
@@ -64,3 +60,20 @@ My research interests lie in <font color="red"> Data Mining, Natural Language Pr
              <li>05/2018 -- 08/2018: Summer intern at <i>Adobe Research</i>, San Jose, CA</li>
              <li>05/2017 -- 08/2017: Summer intern at <i>Nokia Bell Laboratories</i>, Dublin, Ireland</li>
          </ul> 
+
+<br> 
+
+## Achievements
+
+<ul>
+<li> <b>Best Paper Honorable Mention</b> at The Web Search and Data Mining (WSDM) Conference from a shortlist of 5 papers & 112 accepted papers, 2021. </li>
+            <li> <b>Best Paper Award</b> at The Web Conference from a shortlist of 4 papers & 317 accepted papers, 2020. </li>
+            <li> CSE Graduate Student Poster (<i>Honorable Mention</i>) at the Ohio State University, 2020.
+            <li> Awarded the <i> B. Chandrasekaran & Sandra Mamrak Graduate Research Award </i> </a> in CSE at the Ohio State University, 2020.
+            <li> CSE Graduate Student Poster (<i>Honorable Mention</i>) at the Ohio State University, 2020.
+            <li> Awarded the <a href = https://gradsch.osu.edu/pursuing-your-degree/graduate-fellows/presidential-fellowship/> <i> Presidential Fellowship </i> </a> at the Ohio State University, 2019.
+            <li> Selected as a <a href = https://publish.illinois.edu/rising-stars/participants/> <i> Rising Star in EECS, </i> </a>2019. </li>
+            <li> Travel Awards for SIGIR 2018, ICWSM 2018, ACM CRA-W workshop 2017. </li>
+            <li> <i>University Graduate Fellowship</i> at the Ohio State University, 2015. </li>
+            <li> Academic Excellence Award, Institute Silver Medal (First Rank in CSE Dept.) and Outstanding Academic Performance Prize, National Institute of Technology, Nagpur (India)
+            </ul>

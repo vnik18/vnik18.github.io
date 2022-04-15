@@ -22,7 +22,7 @@ My research interests lie in <font color="red"> Data Mining, Natural Language Pr
              
 - 09/2020: I have been invited to present my PhD work at the [Microsoft AI Breakthroughs Workshop (virtual)](https://www.microsoft.com/en-us/research/event/ai-breakthroughs-2020) 
 
-- 08/2020: I completed my <b> PhD in Computer Science </b> at the Ohio State University! 
+- 08/2020: I completed my <b> PhD in Computer Science </b> at the Ohio State University! Check out my [PhD Dissertation](http://rave.ohiolink.edu/etdc/view?acc_num=osu1598201770517074) here
 
 - 05/2020: Our work "Open Intent Discovery from Natural Language Interactions" received the <b>Best Paper Award</b> at <i> The Web Conference (WWW 2020) </i> in Taipei, Taiwan! 
 

@@ -83,9 +83,9 @@ My research interests lie in <font color="red"> Data Mining, Natural Language Pr
  
  ## Experience
  
- - 05/2019 - 08/2019: Summer intern at <i>Amazon Alexa AI</i>, Boston, MA
- - 05/2018 - 08/2018: Summer intern at <i>Adobe Research</i>, San Jose, CA
- - 05/2017 - 08/2017: Summer intern at <i>Nokia Bell Laboratories</i>, Dublin, Ireland
+- 2019: Summer intern at <i>Amazon Alexa AI</i>, Boston, MA
+- 2018: Summer intern at <i>Adobe Research</i>, San Jose, CA
+- 2017: Summer intern at <i>Nokia Bell Laboratories</i>, Dublin, Ireland
          
 
 <br> 
